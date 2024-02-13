@@ -1,0 +1,1 @@
+# Bob-Local-Manga-OCR-Plugin
